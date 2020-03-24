@@ -1,0 +1,6 @@
+0.1 -0.2 100 33 0.0000000001
+DH: -32.683590
+SC: -32.683590
+DH iter:44 SC iter:12
+
+Correct answer: DH iter:44 SC iter:39
